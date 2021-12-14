@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm João Francisco Reis</h1>
+<h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A 26 year old aspiring developer from Portugal.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
-- 📫 How to reach me **joaofranciscoreis13@outlook.com**
+- 📫 How to reach me: **joaofranciscoreis13@outlook.com**
 
-- ⚡ About me **Other than coding 🤓, I enjoy skateboarding 🛹, making music 🎹 and photography 📸!**
+- ⚡ About me: **Other than coding 🤓, I enjoy skateboarding 🛹, making music 🎹 and photography 📸!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
