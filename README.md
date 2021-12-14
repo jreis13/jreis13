@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm João</h1>
+<h1 align="center">Hi 👋, I'm João Francisco Reis</h1>
 <h3 align="center">A 26 year old aspiring developer from Portugal.</h3>
 
-- 🌱 I’m currently learning: **React**
+- 🌱 I’m currently learning **React**
 
-- 📫 How to reach me: **joaofranciscoreis13@outlook.com**
+- 📫 How to reach me **joaofranciscoreis13@outlook.com**
 
-- ⚡ About me: **Other than coding 🤓, I enjoy skateboarding 🛹, making music 🎹 and photography 📸!**
+- ⚡ About me **Other than coding 🤓, I enjoy skateboarding 🛹, making music 🎹 and photography 📸!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaofreis22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaofreis22" height="30" width="40" /></a>
+<a href="https://instagram.com/instantsatchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instantsatchi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-e5aSjv9U0v3Pflg4l4Pjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satchi' -" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
