@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm João</h1>
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+<h1 align="center">Hi, I'm João</h1>
 <h3 align="center">A 26 year old frontend developer from Portugal.</h3>
 
 - 🌱 I’m currently learning: **JavaScript** & **React**
