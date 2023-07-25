@@ -1,6 +1,6 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h1 align="center">Hi, I'm João</h1>
-<h3 align="center">A 27 year old frontend developer from Portugal 🏖, living in Dublin ☘️.</h3>
+<h3 align="center">A 28 year old frontend developer from Portugal 🏖, living in Dublin ☘️.</h3>
 
 - 🌱 I’m currently learning: **React** 🚀
 
