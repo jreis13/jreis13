@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm João</h1>
 <h3 align="center">A 29 year old frontend developer from Portugal 🏖, living in Ireland ☘️.</h3>
 
-- 🌱 Currently building <a href="https://exponentialvector.eu" target="blank">**Exponential Vector**</a> & <a href="https://evtolportal.com" target="blank">**EVTOL Portal**</a> 🚀
+- 🌱 Currently building <a href="https://exponentialvector.eu" target="blank">**Exponential Vector**</a> & <a href="https://evtolportal.com" target="blank">**eVTOL Portal**</a> 🚀
 
 - 📫 How to reach me: **joaofranciscoreis22@gmail.com**
 
@@ -12,7 +12,7 @@ After Le Wagon's Web Development Bootcamp, I participated in Subvisual's Summer 
 
 Shortly after, I was invited to join Subvisual as a front-end developer. 
 
-As a developer, I have had various opportunities and I'm now working as the solo developer at **Exponential Vector** where I am building **EVTOL Portal** and working on tracking the latest developments in the eVTOL space.
+As a developer, I have had various opportunities and I'm now working as the solo developer at **Exponential Vector** where I am building **eVTOL Portal** and working on tracking the latest developments in the eVTOL space.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
