@@ -1,18 +1,22 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <h1 align="center">Hi, I'm João</h1>
-<h3 align="center">A 28 year old frontend developer from Portugal 🏖, living in Dublin ☘️.</h3>
+<h3 align="center">A 29 year old frontend developer from Portugal 🏖, living in Ireland ☘️.</h3>
 
-- 🌱 I’m currently learning: **React** 🚀
+- 🌱 Currently building <a href="https://exponentialvector.eu" target="blank">**Exponential Vector**</a> & <a href="https://evtolportal.com" target="blank">**EVTOL Portal**</a> 🚀
 
-- 📫 How to reach me: **joaofranciscoreis13@outlook.com**
+- 📫 How to reach me: **joaofranciscoreis22@gmail.com**
 
-- ⚡ About me: Other than **coding** 👨‍💻, I enjoy **skateboarding** 🛹, making **music** 🎹 and **photography** 📸!
+⚡ About me:
+
+After Le Wagon's Web Development Bootcamp, I participated in Subvisual's Summer Camp Academy from June to August of 2022. 
+
+Shortly after, I was invited to join Subvisual as a front-end developer. 
+
+As a developer, I have had various opportunities and I'm now working as the solo developer at **Exponential Vector** where I am building **EVTOL Portal** and working on tracking the latest developments in the eVTOL space.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joao-francisco-reis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaofreis22" height="30" width="40" /></a>
-<a href="https://instagram.com/instantsatchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instantsatchi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC-e5aSjv9U0v3Pflg4l4Pjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satchi' -" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
