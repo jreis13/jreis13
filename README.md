@@ -8,7 +8,7 @@ After <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>'s Web Devel
 
 Shortly after, I was invited to join <a href="https://subvisual.com" target="_blank">Subvisual</a> as a front-end developer. 
 
-As a developer, I have had various opportunities and I'm now working as the solo developer at <a href="https://exponentialvector.eu" target="blank">**Exponential Vector**</a> & building <a href="https://evtolportal.com" target="blank">**eVTOL Portal**</a>, a tool that works on *tracking the latest developments in the eVTOL space*.
+As a developer, I have had various opportunities and I'm now working as the solo developer at <a href="https://exponentialvector.eu" target="_blank">**Exponential Vector**</a> & building <a href="https://evtolportal.com" target="_blank">**eVTOL Portal**</a>, a tool that works on *tracking the latest developments in the eVTOL space*.
 
 <br />
 
